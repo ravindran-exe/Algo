@@ -1,5 +1,7 @@
 package math;
+
 import java.util.*;
+
 public class Seive {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
